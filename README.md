@@ -1,5 +1,5 @@
 # brooke-thomas
-![Brooke Thomas website](https://i.giphy.com/media/pifTUkNAr8WiDGH7Tc/giphy.webp)
+![Brooke Thomas website](Brooke.gif)
 
 ## About The Project
 
